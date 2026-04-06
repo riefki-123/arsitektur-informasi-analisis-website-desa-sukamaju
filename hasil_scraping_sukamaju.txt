@@ -1,0 +1,198 @@
+============================================================
+SCRAPING WEBSITE DESA SUKAMAJU — ANALISIS SISTEM ORGANISASI
+URL    : https://sukamaju.desagarut.com
+Waktu  : 2026-04-06 08:55:57
+============================================================
+
+📋 1. METADATA
+----------------------------------------
+  [viewport] → width=device-width, initial-scale=1
+  [google] → notranslate
+  [theme] → DeNava
+  [designer] → Ariandi Ryan Kahfi, S.Pd.
+  [theme:designer] → Ariandi Ryan Kahfi, S.Pd.
+  [theme:version] → v16.4
+  [keywords] → Website Resmi Desa Sukamaju Kecamatan Cilawu Kabupaten Garut
+  [og:site_name] → Website Resmi Desa Sukamaju
+  [og:type] → article
+  [fb:app_id] → 147912828718
+  [fb:admins] → 1117950751
+  [og:image:width] → 400
+  [og:image:height] → 225
+  [description] → Website Resmi Desa Sukamaju Kecamatan Cilawu Kabupaten Garut Provinsi Jawa Barat
+  [og:url] → https://sukamaju.desagarut.com/index.php/
+  [og:title] → Desa Sukamaju
+  [og:description] → Website Resmi Desa Sukamaju Kecamatan Cilawu Kabupaten Garut Provinsi Jawa Barat
+  [og:image] → https://sukamaju.desagarut.com/assets/files/logo/opensid_kantor.jpg
+  [robots] → index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+  [subject] → Website Resmi Desa Sukamaju Kecamatan Cilawu Kabupaten Garut Provinsi Jawa Barat
+  [copyright] → Website Resmi Desa Sukamaju
+  [language] → Indonesia
+  [Classification] → Government
+  [url] → https://sukamaju.desagarut.com/index.php/
+  [identifier-URL] → https://sukamaju.desagarut.com/index.php/
+  [category] → Website Resmi Desa Sukamaju
+  [coverage] → Worldwide
+  [distribution] → Global
+  [rating] → General
+  [webcrawlers] → all
+  [rating] → general
+  [spiders] → all
+
+🗂️  2. TAXONOMY & NAVIGATION SYSTEM
+----------------------------------------
+  Halaman Kehadiran → https://sukamaju.desagarut.com/index.php/kehadiran
+  Login Admin → https://sukamaju.desagarut.com/index.php/siteman
+  Layanan Mandiri → https://sukamaju.desagarut.com/index.php/layanan-mandiri/masuk
+  Berita Desa → https://sukamaju.desagarut.com/index.php/artikel/kategori/berita-desa
+  Perpustakaan Desa Sukamaju → https://sukamaju.desagarut.com/index.php/artikel/kategori/perpustakaan-desa-sukamaju
+  Pemerintah Desa → https://sukamaju.desagarut.com/index.php/pemerintah
+  BPD → https://sukamaju.desagarut.com/index.php/first/#
+  PKK → https://sukamaju.desagarut.com/index.php/first/#
+  Lapak → https://sukamaju.desagarut.com/index.php/lapak
+  Galeri → https://sukamaju.desagarut.com/index.php/galeri
+  Pengaduan → https://sukamaju.desagarut.com/index.php/pengaduan
+  Pembangunan → https://sukamaju.desagarut.com/index.php/pembangunan
+  Vaksinasi → https://sukamaju.desagarut.com/index.php/data-vaksinasi
+  Populasi → https://sukamaju.desagarut.com/index.php/data-wilayah
+  Agama → https://sukamaju.desagarut.com/index.php/data-statistik/agama
+  Pekerjaan → https://sukamaju.desagarut.com/index.php/data-statistik/pekerjaan
+  Pendidikan → https://sukamaju.desagarut.com/index.php/data-statistik/pendidikan-dalam-kk
+  Jenis Kelamin → https://sukamaju.desagarut.com/index.php/data-statistik/jenis-kelamin
+  Status Perkawinan → https://sukamaju.desagarut.com/index.php/data-statistik/status-perkawinan
+  Status Keluarga → https://sukamaju.desagarut.com/index.php/data-statistik/hubungan-dalam-kk
+  Status Penduduk → https://sukamaju.desagarut.com/index.php/data-statistik/status-penduduk
+  Golongan Darah → https://sukamaju.desagarut.com/index.php/data-statistik/golongan-darah
+  Disabilitas → https://sukamaju.desagarut.com/index.php/data-statistik/penyandang-cacat
+  Umur - Rentang → https://sukamaju.desagarut.com/index.php/data-statistik/rentang-umur
+  Umur - Kategori → https://sukamaju.desagarut.com/index.php/data-statistik/kategori-umur
+  Calon Pemilih → https://sukamaju.desagarut.com/index.php/data-dpt
+  Kelas Sosial → https://sukamaju.desagarut.com/index.php/data-statistik/kelas-sosial
+  Status IDM 2021 → https://sukamaju.desagarut.com/index.php/status-idm/2021
+  Status IDM 2022 → https://sukamaju.desagarut.com/index.php/status-idm/2022
+  Status IDM 2023 → https://sukamaju.desagarut.com/index.php/status-idm/2023
+  Status IDM 2024 → https://sukamaju.desagarut.com/index.php/status-idm/2024
+  Status SDGs → https://sukamaju.desagarut.com/index.php/status-sdgs
+  Produk Hukum → https://sukamaju.desagarut.com/index.php/peraturan-desa
+  Informasi Publik → https://sukamaju.desagarut.com/index.php/informasi-publik
+  Bantuan Penduduk → https://sukamaju.desagarut.com/index.php/first/statistik/bantuan_penduduk
+  Bantuan Keluarga → https://sukamaju.desagarut.com/index.php/first/statistik/bantuan_keluarga
+  Peta → https://sukamaju.desagarut.com/index.php/peta
+  Website Resmi Desa  SukamajuKec. Cilawu Kab. Garut → https://sukamaju.desagarut.com/index.php/
+  Desa  SukamajuKec. Cilawu, Kab. GarutProv. Jawa Barat → https://sukamaju.desagarut.com/index.php/
+  Data WilayahPopulasi Per Wilayah → https://sukamaju.desagarut.com/index.php/data-wilayah
+  Lapak DesaHasil Olahan Warga → https://sukamaju.desagarut.com/index.php/lapak
+  Golongan DarahData Statistik → https://sukamaju.desagarut.com/index.php/data-statistik/golongan-darah
+  Rekam Kehadirandi Kantor Desa → https://sukamaju.desagarut.com/index.php/kehadiran
+  PembangunanDokumentasi Kegiatan → https://sukamaju.desagarut.com/index.php/pembangunan
+  Produk HukumPeraturan di Desa → https://sukamaju.desagarut.com/index.php/peraturan-desa
+  DPTCalon Pemilih → https://sukamaju.desagarut.com/index.php/first/dpt
+  LaporPengaduan Warga → https://sukamaju.desagarut.com/index.php/pengaduan
+  GaleriAlbum Foto → https://sukamaju.desagarut.com/index.php/galeri
+  Status SDGsSustainable Development Goals → https://sukamaju.desagarut.com/index.php/status-sdgs
+  PetaWilayah Desa → https://sukamaju.desagarut.com/index.php/peta
+  BantuanPenerima Manfaat → https://sukamaju.desagarut.com/index.php/first/statistik/bantuan_penduduk
+  Arsip → https://sukamaju.desagarut.com/index.php/arsip
+  Pemerintah Desa Sukamaju Kec.Cilawu Tingkatkan Infrastruktur Jalan Desa Dana Desa Tahun Anggaran 2025 → https://sukamaju.desagarut.com/index.php/artikel/2026/3/3/pemerintah-desa-sukamaju-keccilawu-tingkatkan-infrastruktur-jalan-desa-dana-desa-tahun-anggaran-2025
+  Selengkapnya → https://sukamaju.desagarut.com/index.php/artikel/2026/3/3/pemerintah-desa-sukamaju-keccilawu-tingkatkan-infrastruktur-jalan-desa-dana-desa-tahun-anggaran-2025
+  DataWilayah → https://sukamaju.desagarut.com/index.php/data-wilayah
+  DataPendidikan → https://sukamaju.desagarut.com/index.php/data-statistik/pendidikan-dalam-kk
+  DataPekerjaan → https://sukamaju.desagarut.com/index.php/data-statistik/pekerjaan
+  DataUsia → https://sukamaju.desagarut.com/index.php/data-statistik/rentang-umur
+  Login Layanan Mandiri → https://sukamaju.desagarut.com/index.php/layanan-mandiri/masuk
+  Statistik → https://sukamaju.desagarut.com/index.php/data-statistik/jenis-kelamin
+  6 KaliPemerintah Desa Sukamaju Kec.Cilawu Tingkatkan Infrastruktur... → https://sukamaju.desagarut.com/index.php/artikel/2026/3/3/pemerintah-desa-sukamaju-keccilawu-tingkatkan-infrastruktur-jalan-desa-dana-desa-tahun-anggaran-2025
+
+🏷️  3. CONTROLLED VOCABULARY
+----------------------------------------
+  Kategori Artikel:
+  → Berita Desa (https://sukamaju.desagarut.com/index.php/artikel/kategori/berita-desa)
+  → Perpustakaan Desa Sukamaju (https://sukamaju.desagarut.com/index.php/artikel/kategori/perpustakaan-desa-sukamaju)
+  → Berita Desa (https://sukamaju.desagarut.com/index.php/artikel/kategori/berita-desa)
+  → Perpustakaan Desa Sukamaju (https://sukamaju.desagarut.com/index.php/artikel/kategori/perpustakaan-desa-sukamaju)
+  → Berita Desa (https://sukamaju.desagarut.com/index.php/artikel/kategori/berita-desa)
+  → Perpustakaan Desa Sukamaju (https://sukamaju.desagarut.com/index.php/artikel/kategori/perpustakaan-desa-sukamaju)
+  → Berita Desa (https://sukamaju.desagarut.com/index.php/artikel/kategori/berita-desa)
+  → Perpustakaan Desa Sukamaju (https://sukamaju.desagarut.com/index.php/artikel/kategori/perpustakaan-desa-sukamaju)
+  Kategori Menu Statistik:
+  → Agama
+  → Pekerjaan
+  → Pendidikan
+  → Jenis Kelamin
+  → Status Perkawinan
+  → Status Keluarga
+  → Status Penduduk
+  → Golongan Darah
+  → Disabilitas
+  → Umur - Rentang
+  → Umur - Kategori
+  → Kelas Sosial
+  → Agama
+  → Pekerjaan
+  → Pendidikan
+  → Jenis Kelamin
+  → Status Perkawinan
+  → Status Keluarga
+  → Status Penduduk
+  → Golongan Darah
+  → Disabilitas
+  → Umur - Rentang
+  → Umur - Kategori
+  → Kelas Sosial
+  → Golongan DarahData Statistik
+  → DataPendidikan
+  → DataPekerjaan
+  → DataUsia
+  → Statistik
+
+🔍 4. SEARCH FUNCTIONALITY
+----------------------------------------
+  Search/Form ditemukan: <form action="https://sukamaju.desagarut.com/index.php/" method="get">
+<input autocomplete="off" class="form-control border-grey-soft flexleft" maxlength="50" name="cari" placeholder="Cari Artikel" type="text" value=""/>
+<button class="go-search flexcenter" type="submit">
+<svg viewbox="0 0 56.966 56.966">
+<path d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23 s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92 c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17 s-17-7.626-17-17S14.61,6,23.984,6z"></path>
+</svg>
+</button>
+</form>
+
+🗺️  5. SITE MAP
+----------------------------------------
+  Struktur halaman berdasarkan navigasi:
+  ├── Profil Desa
+  │   └── Visi dan Misi
+  │   └── Sejarah Desa
+  │   └── Kondisi Geografis
+  ├── Pemerintahan
+  │   └── SOTK
+  │   └── Pemerintah Desa
+  │   └── BPD
+  │   └── PKK
+  ├── Potensi Desa
+  │   └── Lapak
+  │   └── Galeri
+  │   └── Pengaduan
+  │   └── Pembangunan
+  ├── Data Statistik
+  │   └── Vaksinasi
+  │   └── Populasi
+  │   └── Agama
+  │   └── Pekerjaan
+  │   └── Pendidikan
+  │   └── Jenis Kelamin
+  │   └── Status Perkawinan
+  │   └── Golongan Darah
+  │   └── Disabilitas
+  │   └── Rentang Umur
+  ├── Status Desa
+  │   └── IDM 2021
+  │   └── IDM 2022
+  │   └── IDM 2023
+  │   └── IDM 2024
+  │   └── SDGs
+  ├── Regulasi
+  │   └── Produk Hukum
+  │   └── Informasi Publik
+  ├── Bantuan
+  │   └── Bantuan Penduduk
+  │   └── Bantuan Keluarga
